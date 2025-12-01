@@ -29,6 +29,11 @@ Fotos:
 
 ![Imagem do WhatsApp de 2025-11-27 à(s) 09 51 01_e4739f33](https://github.com/user-attachments/assets/4bf3f1ad-c0bc-4ec6-95d9-3cfe73819638)
 
+![Imagem do WhatsApp de 2025-12-01 à(s) 17 23 50_b7f6ee56](https://github.com/user-attachments/assets/7a810243-78fb-4ffc-99a7-4dcb4ed4d22b)
+
+![Imagem do WhatsApp de 2025-12-01 à(s) 17 23 50_6a738912](https://github.com/user-attachments/assets/4e18a1ed-513a-41a5-8f09-c2cf45509d9c)
+
+
 
 Modelos 3D:
 
