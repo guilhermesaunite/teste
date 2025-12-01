@@ -1,16 +1,14 @@
-📌 Nome do Projeto
+📌 SALVE GAIA
 
-Breve descrição do trabalho/projeto. Explique em uma ou duas frases o objetivo principal.
+O objetivo do projeto era a impressão 3D dos totens de metrópole, cidade e vila, totem de caça e pesca e o dado dos impactos negativos.
 
 📁 Estrutura do Repositório
 Pasta	Descrição
 /modelos-3d	Contém os arquivos 3D utilizados ou desenvolvidos no projeto.
 /fotos-renders	Imagens finais, fotos e renders do projeto.
-🛠️ Tecnologias Utilizadas
 
-Software/modelador 3D: exemplo (Blender, SketchUp, etc.)
-
-Renderizador: exemplo (V-Ray, Lumion, etc.)
+Software/modelador 3D: Autodesk Fusion
+Renderizador: Autodesk Fusion
 
 Outros: adicione se necessário
 
@@ -20,10 +18,12 @@ Inclua aqui uma ou duas imagens de destaque (opcional):
 
 ![Imagem de exemplo](./fotos-renders/exemplo.jpg)
 
-📄 Contato / Autoria
 
-Autor: Seu nome
+Autores: 
+Guilherme Saunite
+Murilo Cruz
 
-Instituição ou disciplina: (opcional)
+Disciplina: 
+Technological Craftsmanship Works - ELN8DI
 
-Data: Mês/Ano
+2025.2
