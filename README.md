@@ -31,6 +31,7 @@ Fotos:
 
 Modelos 3D:
 
+[modelos 3d.zip](https://github.com/user-attachments/files/23856793/modelos.3d.zip)
 
 
 
